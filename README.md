@@ -6,9 +6,6 @@ Olá, eu sou Samira Costa, e minha paixão é tecnologia e educação. Através 
 
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiracostaa/)
 
-## Estatísticas do GitHub 📊
-
-![Estatísticas do GitHub SamiraCostaa](https://github-readme-stats.vercel.app/api?username=samiracostaa&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que uso no dia a dia 💻
 

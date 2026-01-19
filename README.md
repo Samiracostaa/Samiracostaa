@@ -1,7 +1,11 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá, eu sou Samira Costa, e minha paixão é tecnologia e educação. Através da programação, busco transformar a vida das pessoas e tornar o mundo digital mais interessante e acessível.
+👩‍💻 Samira Costa | Desenvolvedora Backend Java
 
+Bem-vindo(a) ao meu perfil! 👋
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend Java e apaixonada por criar soluções que unem tecnologia, organização e impacto real. Tenho experiência prática com projetos acadêmicos e pessoais, sempre buscando escrever código limpo, escalável e bem estruturado.
+
+Atualmente atuo como Estagiária em Análise de Requisitos, o que me permite unir visão de negócio e técnica para construir sistemas mais eficientes e alinhados às necessidades dos usuários.
 ## Conecte-se comigo 📱
 
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiracostaa/)

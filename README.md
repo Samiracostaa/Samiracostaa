@@ -1,6 +1,5 @@
-# Bem-vindo ao meu perfil! 👋
+# 👩‍💻 Samira Costa | Desenvolvedora Backend Java
 
-👩‍💻 Samira Costa | Desenvolvedora Backend Java
 
 Bem-vindo(a) ao meu perfil! 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend Java e apaixonada por criar soluções que unem tecnologia, organização e impacto real. Tenho experiência prática com projetos acadêmicos e pessoais, sempre buscando escrever código limpo, escalável e bem estruturado.
